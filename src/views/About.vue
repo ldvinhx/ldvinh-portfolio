@@ -13,8 +13,10 @@
       </div>
 
       <div style="margin-top: 40px;">
-        I'm <strong>currently open to new opportunities</strong> in game development or backend engineering. You can reach me at <a href="mailto:ldvinhx@gmail.com">ldvinhx@gmail.com</a> or <router-link to="/contact">through this page</router-link>.
+        While I have experience in full-stack development, my main focus is Unity game development. I'm open to roles that combine client-side and backend systems for games. 
+        You can reach me at <a href="mailto:ldvinhx@gmail.com">ldvinhx@gmail.com</a> or <router-link to="/contact">through this page</router-link>.
       </div>
+
     </div>
 
     <div class="photo">
@@ -33,7 +35,7 @@
 }
 
 .photo {
-  margin-top: 50px;
+  margin-top: -50px;
   text-align: center;
 }
 
