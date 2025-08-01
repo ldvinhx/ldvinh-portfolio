@@ -27,7 +27,9 @@ export default [
     <div class="paragraph center">
         <iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F2269415190115213%2F&show_text=false&width=267&t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
     </div>
-
+    <div class="paragraph center">
+        <a href="https://play.google.com/store/apps/details?id=co.imba.ha" target="_blank"><img src="img/projects/play-store-logo.png" alt="Play Store badge" /></a>
+    </div>
     <div class="paragraph center">
     <img class="pc-screenshot" src="img/projects/ha/ha1.png" alt="" />
     <img class="pc-screenshot" src="img/projects/ha/ha2.png" alt="" />
