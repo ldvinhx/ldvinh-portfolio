@@ -37,37 +37,21 @@ export default [
     <img class="pc-screenshot" src="img/projects/ha/ha4.png" alt="" />
     </div>
     `, "#5a78af"),
-    new ProjectData("project-3", "Drawing Overload", "img/projects/project-3-icon.png", `
+    new ProjectData("project-3", "Heroes Defense: Apex Guardians", "img/projects/hd/hd1.png", `
     <div class="paragraph">
-        <strong>Drawing Overload</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-        <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@miphotography">Miesha Maiden</a>.
+        <strong>Heroes Defense: Apex Guardians</strong> (by Imba Studio) is a <strong>fantasy-style tower defense</strong> game that combines strategic gameplay with hero collection. Players build squads from a roster of over 70 unique heroes, strategically placing them to fend off waves of monsters and bosses, delivering a deep and diverse defensive experience.
     </div>
     <div class="paragraph center">
-        <iframe class="youtube" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+        <iframe class="youtube" src="https://www.youtube.com/embed/oa_6Ro1NDi0" frameborder="0" allowfullscreen></iframe>
     </div>
-
-    <div class="paragraph">
-        Main features :
-        <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
-        </ul>
-    </div>
-
-    <div class="paragraph">
-        <div class="notice">
-        Playable in the browser (WebGL) on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-        Source code is available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
-        </div>
-    </div>
-
     <div class="paragraph center">
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
+        <a href="https://play.google.com/store/apps/details?id=co.imba.hd" target="_blank"><img src="img/projects/play-store-logo.png" alt="Play Store badge" /></a>
+    </div>
+    <div class="paragraph center">
+        <img class="pc-screenshot" src="img/projects/hd/hd2.png" alt="" />
+        <img class="pc-screenshot" src="img/projects/hd/hd3.png" alt="" />
+        <img class="pc-screenshot" src="img/projects/hd/hd4.png" alt="" />
+        <img class="pc-screenshot" src="img/projects/hd/hd5.png" alt="" />
     </div>
     `, "#383838"),
     new ProjectData("project-4", "Eugeneable", "img/projects/project-4-icon.png", `
