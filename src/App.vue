@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     
-    <link rel="stylesheet" href="@/assets/projects/projects.css" type="text/css">
+    <link rel="stylesheet" href="./assets/projects/projects.css" type="text/css">
 
     <Header />
     <div class="main">
