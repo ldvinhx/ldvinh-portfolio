@@ -4,23 +4,27 @@
 
     <div class="paragraph">
       <div>
-        I'm <strong>John Matrix</strong>, a former Delta Force operative, now a hobbyist lumberjack.<br/>
-        I spend my days living alone with my daughter Jenny, and cutting trees and carrying trunks around to keep in shape.
+        I'm <strong>Le Dang Vinh</strong>, a senior full-stack game developer with 7 years of experience.<br/>
+        I specialize in Unity, Cocos Creator, and .NET Core, building both client and server-side systems for engaging and scalable games.
       </div>
 
-      <div style="margin-top: 20px;">I've worked on  <router-link to="/game-projects">stuff</router-link>, on <router-link to="/other-projects">other stuff</router-link>, and took part in <router-link to="/resume">a few things</router-link> as well.</div>
+      <div style="margin-top: 20px;">
+        I've worked on game projects, tools and systems, and contributed to various teams and roles over the years.
+      </div>
 
-      <div style="margin-top: 40px;">I'm <strong>currently looking for a job</strong> as a monk, like my good friend John Rambo did a few years back. You can reach me at <a href="mailto:johnmatrix@deltaforce.us">johnmatrix@deltaforce.us</a> or <router-link to="/contact">through here</router-link>.</div>
+      <div style="margin-top: 40px;">
+        I'm <strong>currently open to new opportunities</strong> in game development or backend engineering. You can reach me at <a href="mailto:ldvinhx@gmail.com">ldvinhx@gmail.com</a> or <router-link to="/contact">through this page</router-link>.
+      </div>
     </div>
 
     <div class="photo">
-      <img src="img/avatar.png" alt="Avatar of John" /> 
+      <img src="img/avatar.png" alt="Avatar of Le Dang Vinh" /> 
     </div>
 
     <div style="clear:both"></div>
-
   </div>
 </template>
+
 
 <style scoped>
 .paragraph {
