@@ -37,7 +37,7 @@ export default [
     <img class="pc-screenshot" src="img/projects/ha/ha4.png" alt="" />
     </div>
     `, "#5a78af"),
-    new ProjectData("project-3", "Heroes Defense: Apex Guardians", "img/projects/hd/hd1.png", `
+    new ProjectData("project-3", "Heroes Defense: Apex Guardians", "img/projects/hd/hd6.png", `
     <div class="paragraph">
         <strong>Heroes Defense: Apex Guardians</strong> (by Imba Studio) is a <strong>fantasy-style tower defense</strong> game that combines strategic gameplay with hero collection. Players build squads from a roster of over 70 unique heroes, strategically placing them to fend off waves of monsters and bosses, delivering a deep and diverse defensive experience.
     </div>
@@ -53,60 +53,24 @@ export default [
         <img class="pc-screenshot" src="img/projects/hd/hd4.png" alt="" />
         <img class="pc-screenshot" src="img/projects/hd/hd5.png" alt="" />
     </div>
-    `, "#383838"),
-    new ProjectData("project-4", "Eugeneable", "img/projects/project-4-icon.png", `
+    `, "#e48246"),
+    new ProjectData("project-4", "Pipe Fight", "img/projects/pf/pf4.png", `
     <div class="paragraph">
-    <strong>Eugeneable</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-    <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@neo8iam">NEOSiAM 2020</a>.
+    <strong>Pipe Fight</strong> is a strategy game that combines <strong>merge mechanics</strong> with <strong>puzzle defense</strong> gameplay. Players build an energy pipeline network and upgrade nozzles to fend off waves of relentless enemies. With its creative mechanics and accessible yet challenging gameplay, the game offers a fresh take on the tower defense genre, requiring smart planning and efficient layout design.
     </div>
-    
-    <div class="paragraph">
-        Main features :
-        <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
-        </ul>
+     <div class="paragraph center">
+        <img class="pc-screenshot" src="img/projects/pf/pf6.png" alt="" />
     </div>
-
-    <div class="paragraph">
-        <div class="notice">
-        Windows build available on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-        </div>
+    <div class="paragraph center">
+        <a href="https://play.google.com/store/apps/details?id=co.imba.pipefight" target="_blank"><img src="img/projects/play-store-logo.png" alt="Play Store badge" /></a>
     </div>
 
     <div class="paragraph center">
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Eugeneable Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Eugeneable Screenshot" />
+        <img class="pc-screenshot" src="img/projects/pf/pf2.png" alt="" />
+        <img class="pc-screenshot" src="img/projects/pf/pf3.png" alt="" />
+        <img class="pc-screenshot" src="img/projects/pf/pf4.png" alt="" />
+         <img class="pc-screenshot" src="img/projects/pf/pf1.png" alt="" />
     </div>
     `, "#e80fb7"),
-    new ProjectData("project-5", "Cloud Drew Land", "img/projects/project-5-icon.png", `
-    <div class="paragraph">
-        <strong>Cloud Drew Land</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-        <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@cottonbro">cottonbro</a>.
-    </div>
-    
-    <div class="paragraph">
-        Main features :
-        <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
-        </ul>
-    </div>
-
-    <div class="paragraph">
-        <div class="notice">
-        Windows build available on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-        Source code available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
-        </div>
-    </div>
-
-    <div class="paragraph center">
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
-    </div>`, "#e48246")
+ 
 ];

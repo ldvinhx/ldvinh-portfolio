@@ -1,10 +1,7 @@
 <template>
   <div>
     
-    <h1>Let's get in touch</h1>
-
-    <div style="margin-bottom:40px;">I'm looking for a job !</div>
-
+    <h1>Contact</h1>
     <ul>
       <li>
         <i class="fa fa-user-circle-o fa-lg fa-fw"></i>
