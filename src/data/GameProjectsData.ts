@@ -19,7 +19,7 @@ export default [
         <img class="phone-screenshot" src="img/projects/he/he5.png" alt="" />
         <img class="phone-screenshot" src="img/projects/he/he6.png" alt="" />
     </div>
-    `, "#23bd69", true),
+    `, "#116d3aff", true),
     new ProjectData("project-2", "Heroes Awaken: Idle RPG", "img/projects/ha/ha7.png", `
     <div class="paragraph">
         <strong>Heroes Awaken: Idle RPG</strong> is an auto-battler game by Imba Games, featuring 70+ collectible heroes and offline progression. The game <strong> won 5 awards at Vietnam Game Awards 2024</strong>, recognizing its quality and innovation in the local indie scene.
@@ -36,7 +36,7 @@ export default [
     <img class="pc-screenshot" src="img/projects/ha/ha3.png" alt="" />
     <img class="pc-screenshot" src="img/projects/ha/ha4.png" alt="" />
     </div>
-    `, "#5a78af"),
+    `, "#0d46afff"),
     new ProjectData("project-3", "Heroes Defense: Apex Guardians", "img/projects/hd/hd6.png", `
     <div class="paragraph">
         <strong>Heroes Defense: Apex Guardians</strong> (by Imba Studio) is a <strong>fantasy-style tower defense</strong> game that combines strategic gameplay with hero collection. Players build squads from a roster of over 70 unique heroes, strategically placing them to fend off waves of monsters and bosses, delivering a deep and diverse defensive experience.
@@ -53,8 +53,29 @@ export default [
         <img class="pc-screenshot" src="img/projects/hd/hd4.png" alt="" />
         <img class="pc-screenshot" src="img/projects/hd/hd5.png" alt="" />
     </div>
-    `, "#e48246"),
-    new ProjectData("project-4", "Pipe Fight", "img/projects/pf/pf4.png", `
+    `, "#e4ba46ff"),
+    new ProjectData("project-4", "Heroes Cyborg NFT", "img/projects/cb/cb1.png", `
+    <div class="paragraph">
+    <strong>Cyborg Heroes</strong> is an idle RPG auto-battler developed in collaboration with Imba Studio and powered by the <strong>Cyborg blockchain ecosystem</strong>. The game blends classic idle strategy gameplay with blockchain features such as <strong>on-chain hero ownership, NFT rewards</strong>, and decentralized progression tracking. Players collect and upgrade heroes, compete in PvE and PvP modes, and participate in seasonal events, all while engaging with a Web3-native economy. This hybrid model offers players both engaging gameplay and real ownership of in-game assets.
+    </div>
+     <div class="paragraph center">
+        <iframe class="youtube" src="https://public.static.cyborg.game/05972129-0226-4c30-90f2-a01659aa3637" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div class="paragraph center">
+        <iframe class="youtube" src="https://public.static.cyborg.game/ba874530-e81c-4c83-b3c1-d4a5f7d34990" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div class="paragraph">
+        <div class="notice">
+        Windows build available on <a href="https://www.cyborg.game/game/cyborg_heroes" target="_blank"><strong>Heroes Cyborg NFT</strong></a>.
+        </div>
+    </div>
+
+    <div class="paragraph center">
+        <img class="pc-screenshot" src="img/projects/cb/cb1.png" alt="" />
+        <img class="pc-screenshot" src="img/projects/cb/cb2.png" alt="" />
+    </div>
+    `, "#620fe8ff"),
+    new ProjectData("project-5", "Pipe Fight", "img/projects/pf/pf4.png", `
     <div class="paragraph">
     <strong>Pipe Fight</strong> is a strategy game that combines <strong>merge mechanics</strong> with <strong>puzzle defense</strong> gameplay. Players build an energy pipeline network and upgrade nozzles to fend off waves of relentless enemies. With its creative mechanics and accessible yet challenging gameplay, the game offers a fresh take on the tower defense genre, requiring smart planning and efficient layout design.
     </div>
@@ -71,6 +92,6 @@ export default [
         <img class="pc-screenshot" src="img/projects/pf/pf4.png" alt="" />
          <img class="pc-screenshot" src="img/projects/pf/pf1.png" alt="" />
     </div>
-    `, "#e80fb7"),
+    `, "#8d0f15ff"),
  
 ];

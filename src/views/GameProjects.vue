@@ -2,10 +2,6 @@
   <div>
     <h1>Projects</h1>
 
-    <div style="margin-bottom: 30px;">
-      The following are some stuff I've made or heavily contributed to.
-    </div>
-
     <ProjectsList v-bind:projects="projects" />
 
     <div style="margin-top: 20px;">
